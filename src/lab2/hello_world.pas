@@ -1,4 +1,4 @@
 PROGRAM HelloWorld(INPUT, OUTPUT);
 BEGIN
-  WRITELN('Hello world')
+  WRITELN('Hello world ')
 END.
